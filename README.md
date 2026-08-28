@@ -88,7 +88,7 @@ Actualmente estoy trabajando en nuevos proyectos para continuar poniendo en prá
 
 Próximamente agregaré aquí mi siguiente proyecto.
 
-[Ver Mirror Learning] (https://github.com/ErianFWD/Mirror-Learning)
+[Ver Mirror Learning](https://github.com/ErianFWD/Mirror-Learning)
 
 ## Mi objetivo
 
