@@ -78,7 +78,7 @@ El proyecto incluye funcionalidades como:
 
 **Tecnologías:** React, JavaScript, Vite, CSS, React Router, LocalStorage y SessionStorage.
 
-[Ver Project Games](COLOCA_AQUI_EL_ENLACE_DEL_REPOSITORIO)
+[Ver Project Game](https://github.com/ErianFWD/Project-Game)
 
 ---
 
@@ -121,7 +121,7 @@ Estoy abierto a nuevos proyectos, oportunidades de aprendizaje y colaboración.
 
 Si deseas contactarme, colaborar en algún proyecto o compartir oportunidades de aprendizaje, puedes encontrarme aquí:
 
-* GitHub: [Mi perfil](COLOCA_AQUI_TU_ENLACE_DE_GITHUB)
+* GitHub: [Mi perfil](https://github.com/ErianFWD)
 * LinkedIn: próximamente
 * Portafolio web: próximamente
 
