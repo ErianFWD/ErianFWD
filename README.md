@@ -122,7 +122,7 @@ Estoy abierto a nuevos proyectos, oportunidades de aprendizaje y colaboración.
 Si deseas contactarme, colaborar en algún proyecto o compartir oportunidades de aprendizaje, puedes encontrarme aquí:
 
 * GitHub: [Mi perfil](https://github.com/ErianFWD)
-* LinkedIn: próximamente
+* LinkedIn: [Linkedin](https://www.linkedin.com/in/erian-badilla-606252411/?locale=es-ES)
 * Portafolio web: próximamente
 
 ---
